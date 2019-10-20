@@ -27,7 +27,7 @@ export default {
   },
   methods: {
     async getZipInfo(zip) {
-      const res = await fetch(`https://api.zippopotam.us/us/${zip}`)
+      const res = await fetch(`https://api.zippopotam.us/us/${zip}`);
       if (res.status === 404) {
         this.showAlert();
       }

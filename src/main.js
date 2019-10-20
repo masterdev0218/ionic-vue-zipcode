@@ -4,6 +4,7 @@ import router from './router';
 import Ionic from '@ionic/vue';
 
 import '@ionic/core/css/ionic.bundle.css';
+import './registerServiceWorker'
 
 Vue.use(Ionic);
 
