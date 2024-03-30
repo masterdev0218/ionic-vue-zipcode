@@ -2,6 +2,12 @@
 
 * App to display location information from the [zippopotam API](https://api.zippopotam.us/) based on a US zipcode user-input. This app is a Progressive Web App (PWA).
 * This code is from another great tutorial by Traversy Media, [Youtube video: 'Build a PWA With Vue & Ionic 4'](https://www.youtube.com/watch?v=6H1wftPS0oo)
+* **Note:** to open web links in a new window use: _ctrl+click on link_
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/ionic-vue-zipcode?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/ionic-vue-zipcode?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/ionic-vue-zipcode?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/ionic-vue-zipcode?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -81,6 +87,10 @@ module.exports = {
 
 * Traversy Media: [Youtube video: 'Build a PWA With Vue & Ionic 4'](https://www.youtube.com/watch?v=6H1wftPS0oo)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
